@@ -1,5 +1,5 @@
 # Python Number System – 33 Coding Questions
-# Q23 - Find the Sum of Even Digits
+# Q22 - Find the Sum of Even Digits
 
 # ==========================================
 # Problem Statement
