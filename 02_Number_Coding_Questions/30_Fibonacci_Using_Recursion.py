@@ -1,5 +1,5 @@
 # Python Number System – 33 Coding Questions
-# Q32 - Fibonacci Using Recursion
+# Q30 - Fibonacci Using Recursion
 
 # ==========================================
 # Problem Statement
