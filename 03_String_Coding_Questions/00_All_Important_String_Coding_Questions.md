@@ -6,7 +6,7 @@ Practice important String programming questions using Python for BCA placement p
 
 - **Level:** Beginner to Intermediate
 - **Language:** Python
-- **Purpose:** TCS BCA Ignite & Placement Preparation
+- **Purpose:** TCS,Wipro,Cognizant & More  And Placement Preparation
 - **Total Questions:** 25
 
 ## 📊 Coding Questions – Priority Overview
