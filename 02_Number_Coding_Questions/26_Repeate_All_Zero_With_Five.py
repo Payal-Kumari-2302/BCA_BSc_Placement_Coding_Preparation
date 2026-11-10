@@ -1,5 +1,5 @@
 # Python Number System – 33 Coding Questions
-# Q28 - Replace All Zeros with Fives
+# Q26 - Replace All Zeros with Fives
 
 # ==========================================
 # Problem Statement
