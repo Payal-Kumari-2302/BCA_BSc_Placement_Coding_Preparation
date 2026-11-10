@@ -26,8 +26,7 @@ This repository focuses on learning through practice, understanding programming 
 
 | Students | Preparation |
 |:---|:---|
-| 🎓 BCA Students | Campus Placements |
-| 🎓 BSc Computer Science Students | Technical Interviews |
+| 🎓 BCA & Bsc Students | Campus Placements |
 | 💻 Programming Beginners | Python Coding Practice |
 | 🚀 Freshers | Off-Campus Opportunities |
 
