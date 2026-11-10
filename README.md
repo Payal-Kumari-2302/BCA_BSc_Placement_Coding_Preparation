@@ -93,11 +93,11 @@ Track your progress category by category.
 
 ## 🧩 My Coding Practice Strategy
 
-<div align="center">
+
 
 ### Understand → Think → Code → Test → Optimize → Practice Again
 
-</div>
+
 
 Consistency and problem-solving matter more than simply completing questions.
 
