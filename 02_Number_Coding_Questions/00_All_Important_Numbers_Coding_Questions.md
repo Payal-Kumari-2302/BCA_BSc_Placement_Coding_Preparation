@@ -14,7 +14,7 @@ Practice Number System coding questions using Python and develop strong programm
 |---|---|
 | Level | Beginner to Intermediate |
 | Language | Python |
-| Purpose | TCS BCA Ignite & Placement Preparation |
+| Purpose | TCS, Wipro, Cognizant & More And Placement Preparation |
 | Total Questions | 31 |
 | Practice Format | Problem → Example → Solution |
 
