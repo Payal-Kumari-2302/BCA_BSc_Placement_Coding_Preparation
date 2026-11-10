@@ -1,8 +1,8 @@
-# 🔢 Python Numbers – 33 Coding Questions
+# 🔢 Python Numbers – 31 Coding Questions
 
 ### Build Strong Number-Based Problem-Solving Skills with Python 🚀
 
-A structured collection of 33 number-based coding problems designed for BCA/B.Sc students preparing for TCS Ignite, TCS NQT and other fresher placement coding rounds.
+A structured collection of 31 number-based coding problems designed for BCA/B.Sc students preparing for TCS Ignite, TCS NQT and other fresher placement coding rounds.
 
 ---
 
@@ -15,31 +15,29 @@ Practice Number System coding questions using Python and develop strong programm
 | Level | Beginner to Intermediate |
 | Language | Python |
 | Purpose | TCS BCA Ignite & Placement Preparation |
-| Total Questions | 33 |
+| Total Questions | 31 |
 | Practice Format | Problem → Example → Solution |
-| Repository | Python Coding Practice |
 
 ---
 
 ## 📊 Coding Questions – Priority Overview
 
-Practice questions according to their priority to build your coding skills step by step.
-
-| 🔥 Priority 1 | ⭐ Priority 2 | 📌 Priority 3 |
+| 🔥 Priority 1 – Must Practice | ⭐ Priority 2 – Important | 📌 Priority 3 – Additional |
 |:---|:---|:---|
-| Q1. Positive, Negative, Odd, Even & Zero | Q13. Perfect Square | Q25. Product of Digits |
-| Q2. Reverse Number | Q14. Sum of First N Natural Numbers | Q26. First & Last Digit |
-| Q3. Sum of Digits | Q15. Happy Number | Q27. Swap First & Last Digit |
-| Q4. All Divisors | Q16. Count Digits | Q28. Replace Zeros with Fives |
-| Q5. Prime Number | Q17. Prime Numbers in a Range | Q29. Power of a Number |
-| Q6. Leap Year | Q18. Strong Number | Q30. Add Two Fractions |
-| Q7. Factorial | Q19. Prime Factors | Q31. Palindrome Number |
-| Q8. Fibonacci Series | Q20. Armstrong Numbers in a Range | Q32. Fibonacci Using Recursion |
-| Q9. GCD / HCF | Q21. Largest Digit | Q33. Disarium Number |
-| Q10. Perfect Number | Q22. Smallest Digit | |
-| Q11. Armstrong Number | Q23. Sum of Even Digits | |
-| Q12. LCM | Q24. Sum of Odd Digits | |
-| **12 Questions** | **12 Questions** | **9 Questions** |
+| Q1. Positive, Negative & Zero | Q13. Perfect Square | Q26. Replace Zeros with Fives |
+| Q2. Reverse Number | Q14. Sum of First N Natural Numbers | Q27. Power of a Number |
+| Q3. Sum of Digits | Q15. Happy Number | Q28. Add Two Fractions |
+| Q4. All Divisors | Q16. Count Digits | Q29. Palindrome Number |
+| Q5. Prime Number | Q17. Prime Numbers in a Range | Q30. Fibonacci Using Recursion |
+| Q6. Leap Year | Q18. Strong Number | Q31. Disarium Number |
+| Q7. Factorial | Q19. Prime Factors | |
+| Q8. Fibonacci Series | Q20. Largest Digit | |
+| Q9. GCD / HCF | Q21. Smallest Digit | |
+| Q10. Perfect Number | Q22. Sum of Even Digits | |
+| Q11. Armstrong Number | Q23. Product of Digits | |
+| Q12. LCM | Q24. First & Last Digit | |
+| | Q25. Swap First & Last Digit | |
+| **12 Questions** | **13 Questions** | **6 Questions** |
 
 ---
 
@@ -56,14 +54,14 @@ Practice questions according to their priority to build your coding skills step 
 
 # 🔥 Priority 1 – Must Practice First
 
-### Q1. Check Positive, Negative, Odd, Even or Zero
+### Q1. Check Positive, Negative or Zero
 
-**Problem:** Determine whether an integer is positive, negative or zero. If it is not zero, also check whether it is odd or even.
+**Problem:** Determine whether an integer is positive, negative or zero.
 
 **Example**
 ```text
 Input: 10
-Output: Positive, Even
+Output: Positive
 ```
 - [ ] Completed
 
@@ -278,21 +276,7 @@ Output: 2 2 3
 ```
 - [ ] Completed
 
-### Q20. Find Armstrong Numbers in a Range
-
-**Problem:** Print all Armstrong numbers between two given limits.
-
-**Example**
-```text
-Input:
-1
-200
-
-Output: 1 2 3 4 5 6 7 8 9 153
-```
-- [ ] Completed
-
-### Q21. Find the Largest Digit
+### Q20. Find the Largest Digit
 
 **Problem:** Find the largest digit in a given integer.
 
@@ -303,7 +287,7 @@ Output: 8
 ```
 - [ ] Completed
 
-### Q22. Find the Smallest Digit
+### Q21. Find the Smallest Digit
 
 **Problem:** Find the smallest digit in a given integer.
 
@@ -314,7 +298,7 @@ Output: 1
 ```
 - [ ] Completed
 
-### Q23. Find the Sum of Even Digits
+### Q22. Find the Sum of Even Digits
 
 **Problem:** Calculate the sum of all even digits in a number.
 
@@ -325,22 +309,7 @@ Output: 12
 ```
 - [ ] Completed
 
-### Q24. Find the Sum of Odd Digits
-
-**Problem:** Calculate the sum of all odd digits in a number.
-
-**Example**
-```text
-Input: 123456
-Output: 9
-```
-- [ ] Completed
-
----
-
-# 📌 Priority 3 – Additional Practice
-
-### Q25. Find the Product of Digits
+### Q23. Find the Product of Digits
 
 **Problem:** Calculate the product of all digits in a number.
 
@@ -351,7 +320,7 @@ Output: 24
 ```
 - [ ] Completed
 
-### Q26. Find the First and Last Digit
+### Q24. Find the First and Last Digit
 
 **Problem:** Display the first and last digits of a number.
 
@@ -364,7 +333,7 @@ Last Digit: 5
 ```
 - [ ] Completed
 
-### Q27. Swap the First and Last Digit
+### Q25. Swap the First and Last Digit
 
 **Problem:** Exchange the first and last digits of an integer.
 
@@ -375,7 +344,11 @@ Output: 52341
 ```
 - [ ] Completed
 
-### Q28. Replace All Zeros with Fives
+---
+
+# 📌 Priority 3 – Additional Practice
+
+### Q26. Replace All Zeros with Fives
 
 **Problem:** Replace every zero digit with five.
 
@@ -386,7 +359,7 @@ Output: 1525
 ```
 - [ ] Completed
 
-### Q29. Find the Power of a Number
+### Q27. Find the Power of a Number
 
 **Problem:** Calculate the value of a number raised to a non-negative integer power.
 
@@ -400,7 +373,7 @@ Output: 32
 ```
 - [ ] Completed
 
-### Q30. Add Two Fractions
+### Q28. Add Two Fractions
 
 **Problem:** Add two fractions and express the result in its simplest form.
 
@@ -414,7 +387,7 @@ Output: 5/6
 ```
 - [ ] Completed
 
-### Q31. Check Whether a Number Is a Palindrome
+### Q29. Check Whether a Number Is a Palindrome
 
 **Problem:** Determine whether a number reads the same forward and backward.
 
@@ -425,7 +398,7 @@ Output: Palindrome Number
 ```
 - [ ] Completed
 
-### Q32. Generate Fibonacci Series Using Recursion
+### Q30. Generate Fibonacci Series Using Recursion
 
 **Problem:** Print the first N Fibonacci terms using a recursive function.
 
@@ -436,7 +409,7 @@ Output: 0 1 1 2 3 5 8
 ```
 - [ ] Completed
 
-### Q33. Check Whether a Number Is a Disarium Number
+### Q31. Check Whether a Number Is a Disarium Number
 
 **Problem:** Determine whether the sum of each digit raised to its position equals the original number.
 
@@ -454,9 +427,9 @@ Output: Disarium Number
 Track your progress while solving the questions.
 
 - [ ] Priority 1 completed (12 Questions)
-- [ ] Priority 2 completed (12 Questions)
-- [ ] Priority 3 completed (9 Questions)
-- [ ] All 33 questions tested
+- [ ] Priority 2 completed (13 Questions)
+- [ ] Priority 3 completed (6 Questions)
+- [ ] All 31 questions tested
 - [ ] All solutions uploaded to GitHub
 
 ---
