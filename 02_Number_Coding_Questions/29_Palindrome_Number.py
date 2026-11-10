@@ -1,5 +1,5 @@
 # Python Number System – 33 Coding Questions
-# Q31 - Check Palindrome Number
+# Q29 - Check Palindrome Number
 
 # ==========================================
 # Problem Statement
