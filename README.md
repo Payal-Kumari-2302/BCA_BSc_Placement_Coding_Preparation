@@ -110,8 +110,9 @@ Keep track of your coding preparation journey.
 ### 🧠 THINK → 💻 CODE → 🧪 TEST → 🔍 IMPROVE
 
 </div>
-**Understand the logic. Write your own solution. Learn from mistakes.**
-  Consistency and problem-solving matter more than simply completing questions.
+Understand the logic. Write your own solution. Learn from mistakes.
+
+Consistency and problem-solving matter more than simply completing questions.
 
 ---
 
