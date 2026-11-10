@@ -1,5 +1,5 @@
 # Python Number System – 33 Coding Questions
-# Q30 - Add Two Fractions
+# Q28 - Add Two Fractions
 
 # ==========================================
 # Problem Statement
