@@ -1,5 +1,5 @@
 # Python Number System – 33 Coding Questions
-# Q22 - Find the Smallest Digit in a Number
+# Q21 - Find the Smallest Digit in a Number
 
 # ==========================================
 # Problem Statement
