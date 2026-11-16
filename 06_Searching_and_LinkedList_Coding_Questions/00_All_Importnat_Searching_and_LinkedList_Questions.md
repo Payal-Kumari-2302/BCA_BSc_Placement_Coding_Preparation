@@ -128,7 +128,7 @@ Output: 40 → 30 → 20 → 10
 ---
 
 
-📊 Final Complexity Revision
+## 📊 Final Complexity Revision
 
 | Algorithm | Time Complexity | Space Complexity |
 |---|---|---|
