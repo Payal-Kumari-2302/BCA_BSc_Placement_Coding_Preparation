@@ -108,6 +108,15 @@ Output: 31
 
 ---
 
+
+## 📊 Final Complexity Revision
+| Conversion | Time Complexity | Space Complexity |
+|---|---|---|
+| Octal to Decimal | O(n) | O(1) |
+| Binary to Decimal | O(n) | O(1) |
+| Decimal to Binary | O(log n) | O(log n) |
+| Decimal to Octal | O(log n) | O(log n) |
+  
 ## 📊 Final Progress Tracker
 
 Track your progress while solving the Number System Conversion problems.
