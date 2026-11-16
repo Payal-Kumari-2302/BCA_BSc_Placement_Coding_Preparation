@@ -127,6 +127,16 @@ Output: 40 → 30 → 20 → 10
 
 ---
 
+
+📊 Final Complexity Revision
+
+| Algorithm | Time Complexity | Space Complexity |
+|---|---|---|
+| Linear Search | O(n) | O(1) |
+| Binary Search | O(log n) | O(1) |
+| Detect Loop | O(n) | O(1) |
+| Find Middle | O(n) | O(1) |
+| Reverse Linked List | O(n) | O(1) |
 ## 📊 Final Progress Tracker
 
 Track your progress while solving the Searching and Linked List problems.
